@@ -6,16 +6,16 @@
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>C/C++ (cmake, SFML, SDL, OpenGL, Vulkan, Boost)</b>
-  - [Spacefire](https://github.com/Jonas-Fe) <i>`private`</i>
-  - [Vulken renderer](https://github.com/Jonas-Fe) <i>`private`</i>
-  - [OpenGL renderer](https://github.com/Jonas-Fe) <i>`private`</i>
-  - [MGE engine](https://github.com/Jonas-Fe) <i>`private`</i>
-  - [MusicPlayer](https://github.com/Jonas-Fe) <i>`private`</i>
-  - [ECS-Test](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [Spacefire](https://github.com/Purogurama-kun) <i>`private`</i>
+  - [Vulken renderer](https://github.com/Purogurama-kun) <i>`private`</i>
+  - [OpenGL renderer](https://github.com/Purogurama-kun) <i>`private`</i>
+  - [MGE engine](https://github.com/Purogurama-kun) <i>`private`</i>
+  - [MusicPlayer](https://github.com/Purogurama-kun) <i>`private`</i>
+  - [ECS-Test](https://github.com/Purogurama-kun) <i>`private`</i>
 - <b>C# (SFML.Net)</b>
-  - [BulletChaos](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [BulletChaos](https://github.com/Purogurama-kun) <i>`private`</i>
 - <b>Web Apps (HTML, CSS, PHP, MySQL)</b>
-  - [BibleVerses](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [BibleVerses](https://github.com/Purogurama-kun) <i>`private`</i>
 
 <br>
 
