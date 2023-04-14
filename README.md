@@ -6,16 +6,16 @@
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>C/C++ (cmake, SFML, SDL, OpenGL, Vulkan, Boost)</b>
-  - [Spacefire](https://github.com/Jonas-Fe) <span style="color:blue">[private]</span>
-  - [Vulken renderer](https://github.com/Jonas-Fe)
-  - [OpenGL renderer](https://github.com/Jonas-Fe)
-  - [MGE engine](https://github.com/Jonas-Fe)
-  - [MusicPlayer](https://github.com/Jonas-Fe)
-  - [ECS-Test](https://github.com/Jonas-Fe)
+  - [Spacefire](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [Vulken renderer](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [OpenGL renderer](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [MGE engine](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [MusicPlayer](https://github.com/Jonas-Fe) <i>`private`</i>
+  - [ECS-Test](https://github.com/Jonas-Fe) <i>`private`</i>
 - <b>C# (SFML.Net)</b>
-  - [BulletChaos](https://github.com/Jonas-Fe)
+  - [BulletChaos](https://github.com/Jonas-Fe) <i>`private`</i>
 - <b>Web Apps (HTML, CSS, PHP, MySQL)</b>
-  - [BibleVerses](https://github.com/Jonas-Fe)
+  - [BibleVerses](https://github.com/Jonas-Fe) <i>`private`</i>
 
 <br>
 
