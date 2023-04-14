@@ -5,17 +5,17 @@
 <br>
 <h2>👨‍💻 Software Development Projects</h2>
 
-- <b>C/C++ (cmake, SFML, SDL, OpenGL, Vulkan, Boost)</b>
-  - [Spacefire](https://github.com/Purogurama-kun) <i>`private`</i>
-  - [Vulken renderer](https://github.com/Purogurama-kun) <i>`private`</i>
-  - [OpenGL renderer](https://github.com/Purogurama-kun) <i>`private`</i>
-  - [MGE engine](https://github.com/Purogurama-kun) <i>`private`</i>
-  - [MusicPlayer](https://github.com/Purogurama-kun) <i>`private`</i>
-  - [ECS-Test](https://github.com/Purogurama-kun) <i>`private`</i>
-- <b>C# (SFML.Net)</b>
-  - [BulletChaos](https://github.com/Purogurama-kun) <i>`private`</i>
+- <b>C/C++</b>
+  - [Spacefire](https://github.com/Purogurama-kun) <i>`private`</i> <i>`SFML`</i> <i>`Windows`</i>
+  - [Vulken renderer](https://github.com/Purogurama-kun) <i>`private`</i> <i>`Vulkan`</i> <i>`Windows`</i>
+  - [OpenGL renderer](https://github.com/Purogurama-kun) <i>`private`</i> <i>`OpneGL`</i> <i>`Windows`</i>
+  - [MGE engine](https://github.com/Purogurama-kun) <i>`private`</i> <i>`SDL, OpenGL`</i> <i>`Windows, Android`</i>
+  - [MusicPlayer](https://github.com/Purogurama-kun) <i>`private`</i> <i>`Windows`</i>
+  - [ECS-Test](https://github.com/Purogurama-kun) <i>`private`</i> <i>`Boost`</i> <i>`Windows`</i>
+- <b>C#</b>
+  - [BulletChaos](https://github.com/Purogurama-kun) <i>`private`</i> <i>`SFML.Net`</i> <i>`Windows`</i>
 - <b>Web Apps (HTML, CSS, PHP, MySQL)</b>
-  - [BibleVerses](https://github.com/Purogurama-kun) <i>`private`</i>
+  - [BibleVerses](https://github.com/Purogurama-kun) <i>`private`</i> <i>`HTML, JS, CSS`</i>
 
 <br>
 
@@ -64,6 +64,12 @@
   </a> 
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/> 
+  </a> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
