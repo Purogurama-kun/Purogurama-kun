@@ -13,6 +13,7 @@
   - [OpenGL renderer](https://github.com/Purogurama-kun) <i>`private`</i> <i>`OpneGL`</i> <i>`Windows`</i>
   - [C-Examples](https://github.com/Purogurama-kun/C-Examples) <i>`private`</i> <i>`SFML, SDL, Boost`</i> <i>`Windows, Linux, Android`</i>
   - [LegoRobot](https://github.com/Purogurama-kun/LegoRobot) <i>`private`</i> <i>`Mindstorms EV3`</i>
+  - [AlarmMicroprocessor](https://github.com/Purogurama-kun/AlarmMicroprocessor) <i>`private`</i> <i>`Microprocessor, LCD display`</i>
 - <b>C#</b>
   - [BulletChaos](https://github.com/Purogurama-kun/BulletChaos) <i>`private`</i> <i>`SFML.Net`</i> <i>`Windows`</i>
 - <b>Web Apps (HTML, CSS, PHP, MySQL)</b>
