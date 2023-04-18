@@ -13,7 +13,7 @@
   - [OpenGL renderer](https://github.com/Purogurama-kun) <i>`private`</i> <i>`OpneGL`</i> <i>`Windows`</i>
   - [C-Examples](https://github.com/Purogurama-kun/C-Examples) <i>`private`</i> <i>`SFML, SDL, Boost`</i> <i>`Windows, Linux, Android`</i>
 - <b>C#</b>
-  - [BulletChaos](https://github.com/Purogurama-kun) <i>`private`</i> <i>`SFML.Net`</i> <i>`Windows`</i>
+  - [BulletChaos](https://github.com/Purogurama-kun/BulletChaos) <i>`private`</i> <i>`SFML.Net`</i> <i>`Windows`</i>
 - <b>Web Apps (HTML, CSS, PHP, MySQL)</b>
   - [BibleVerses](https://github.com/Purogurama-kun) <i>`private`</i> <i>`HTML, JS, CSS`</i>
 
