@@ -8,7 +8,7 @@
 - <b>C/C++</b>
   - [MGE engine](https://github.com/Purogurama-kun/MGE) <i>`private`</i> <i>`SDL, OpenGL`</i> <i>`Windows, Android`</i>
   - [Spacefire](https://github.com/Purogurama-kun/Spacefire) <i>`private`</i> <i>`SFML`</i> <i>`Windows`</i>
-  - [ConsoleMusicPlayer](https://github.com/Purogurama-kun/ConsoleMusicPlayer) <i>`private`</i> <i>`SFML`</i> <i>`Windows`</i>
+  - [ConsoleMusicPlayer](https://github.com/jonas-fehrenbacher/ConsoleMusicPlayer) <i>`public`</i> <i>`SFML`</i> <i>`Windows`</i>
   - [Vulken renderer](https://github.com/Purogurama-kun/2DVkEngine) <i>`private`</i> <i>`Vulkan`</i> <i>`Windows`</i>
   - [OpenGL renderer](https://github.com/Purogurama-kun) <i>`private`</i> <i>`OpneGL`</i> <i>`Windows`</i>
   - [jf-ide](https://github.com/Purogurama-kun/jf-ide) <i>`private`</i> <i>`Android (from scratch)`</i>
