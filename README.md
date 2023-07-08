@@ -18,7 +18,7 @@
 - <b>C#</b>
   - [BulletChaos](https://github.com/Purogurama-kun/BulletChaos) <i>`private`</i> <i>`SFML.Net`</i> <i>`Windows`</i>
 - <b>Web Apps (HTML, CSS, PHP, MySQL)</b>
-  - [BibleVerses](https://github.com/Purogurama-kun) <i>`private`</i> <i>`HTML, JS, CSS`</i>
+  - [BibleVerses](https://github.com/jonas-fehrenbacher/Bibelverse) <i>`public`</i> <i>`HTML, TS/JS, CSS`</i>
 
 <br>
 
@@ -41,7 +41,10 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
