@@ -19,7 +19,7 @@
   - [BulletChaos](https://github.com/Purogurama-kun/BulletChaos) <i>`private`</i> <i>`SFML.Net`</i> <i>`Windows`</i>
 - <b>Web Apps (HTML, CSS, JS, TS, PHP, MySQL)</b>
   - [BibleVerses](https://github.com/jonas-fehrenbacher/Bibelverse) <i>`public`</i> <i>`HTML, TS/JS, CSS`</i>
-  - [Excel Reader](https://github.com/jonas-fehrenbacher/) <i>`public`</i> <i>`HTML, TS, CSS`</i>
+  - [Excel Reader](https://github.com/jonas-fehrenbacher/ExcelReader) <i>`public`</i> <i>`HTML, TS, CSS`</i>
 
 <br>
 
