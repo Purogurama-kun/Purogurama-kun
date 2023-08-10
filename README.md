@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">A passionate programmer from Germany</h3>
 
-- 🔭 I’m currently working on [BibleVerses](https://github.com/Purogurama-kun)
+- 🔭 I’m currently working on [Excel Reader](https://github.com/Purogurama-kun)
 <br>
 <h2>👨‍💻 Software Development Projects</h2>
 
@@ -19,6 +19,7 @@
   - [BulletChaos](https://github.com/Purogurama-kun/BulletChaos) <i>`private`</i> <i>`SFML.Net`</i> <i>`Windows`</i>
 - <b>Web Apps (HTML, CSS, JS, TS, PHP, MySQL)</b>
   - [BibleVerses](https://github.com/jonas-fehrenbacher/Bibelverse) <i>`public`</i> <i>`HTML, TS/JS, CSS`</i>
+  - [Excel Reader](https://github.com/jonas-fehrenbacher/) <i>`public`</i> <i>`HTML, TS, CSS`</i>
 
 <br>
 
