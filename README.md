@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">A passionate programmer from Germany</h3>
 
-- 🔭 I’m currently working on [Excel Reader](https://github.com/Purogurama-kun)
+- 🔭 I’m currently working on publishing a Google play game - PillarJumper.
 <br>
 <h2>👨‍💻 Software Development Projects</h2>
 
@@ -20,7 +20,7 @@
 - <b>Web Apps (HTML, CSS, JS, TS, PHP, MySQL)</b>
   - [BibleVerses](https://github.com/jonas-fehrenbacher/Bibelverse) <i>`public`</i> <i>`HTML, TS/JS, CSS`</i>
   - [Excel Reader](https://github.com/jonas-fehrenbacher/ExcelReader) <i>`public`</i> <i>`HTML, TS, CSS`</i>
-  - [PrinterForm](https://github.com/Purogurama-kun/PrinterForm) <i>`private`</i> <i>`HTML, JS, CSS, PHP`</i>
+  - [PrinterForm](https://github.com/Purogurama-kun/PrinterForm) <i>`public`</i> <i>`HTML, JS, CSS, PHP`</i>
   - [NameAnimation](https://github.com/jonas-fehrenbacher/NameAnimation) <i>`public`</i> <i>`HTML, TS, CSS`</i>
 <br>
 
